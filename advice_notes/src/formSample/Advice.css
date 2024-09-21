@@ -1,0 +1,31 @@
+/* Advice.css */
+.advice-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .advice-text {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .advice-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .advice-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .counter-text {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
